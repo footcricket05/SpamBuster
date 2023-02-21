@@ -1,4 +1,4 @@
-# Email-Spam-Filtering-System
+# Email Spam Filtering System
 Build an API where GET requests would respond with a true or false, when an email id is passed as parameter to the API. A ML algorithm should predict whether the passed email id is a spam email id or not.
 
 
