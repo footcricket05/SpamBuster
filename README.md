@@ -38,6 +38,9 @@ http://localhost:5000/predict?email_id=hello@world.com
 The API will respond with a boolean value indicating whether the email ID is a spam or not.
 
 
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or feedback
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
