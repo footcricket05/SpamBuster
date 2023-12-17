@@ -16,7 +16,7 @@ To use this project, you need to have Python installed on your system. Follow th
 
 2. Install the required dependencies using the following command:
    ```
-   pip install -r requirements.txt
+   pip install sklearn pandas numpy
    ```
 
 3. After installing the dependencies, start the API server with the following command:
